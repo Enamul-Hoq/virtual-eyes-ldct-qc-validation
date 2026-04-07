@@ -58,3 +58,17 @@ virtual-eyes-ldct-qc-validation/
 │   └── REPRODUCING_NLST_EXPERIMENTS.md
 └── data/
     └── README.md
+
+---
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@inproceedings{hoq2026virtualeyes,
+  title={Virtual-Eyes: Quantitative Validation of a Lung CT Quality-Control Pipeline for Foundation-Model Cancer Risk Prediction},
+  author={Hoq, Md. Enamul and Larson-Prior, Linda and Prior, Fred},
+  booktitle={Medical Imaging with Deep Learning (MIDL)},
+  year={2026}
+}
