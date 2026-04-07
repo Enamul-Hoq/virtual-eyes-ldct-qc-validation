@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+tqdm
+pydicom
+scikit-image
+tensorflow
+umap-learn
